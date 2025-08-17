@@ -47,8 +47,8 @@ Solved quizzes and exercises on threats, risks, vulnerabilities, and incident re
 
 ## 📫 Contact Me
 
-- **Email:** your-email@example.com  
-- **LinkedIn:** [linkedin.com/in/junaid](https://www.linkedin.com/in/junaid/)  
+- **Email:** royaljunaid2006@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/junaid-ayyan-mohammed-abdul-845598283/
 - **GitHub:** [github.com/CyberJunaidX](https://github.com/CyberJunaidX)
 
 
