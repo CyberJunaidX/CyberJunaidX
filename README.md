@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Junaid! <br/><a href="https://github.com/CyberJunaidX">Computer Engineering Student</a>, <a href="https://www.linkedin.com/in/junaid/">Cybersecurity Aspirant</a>
 
-<!--
-**CyberJunaidX/CyberJunaidX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h3>1. Security Audit Project – Google Cybersecurity Certificate</h3>
+<p>
+Conducted a security audit simulating a small company's IT infrastructure. Identified risks, assessed vulnerabilities, and suggested improvements using the NIST cybersecurity framework.
+</p>
+<ul>
+  <li><strong>Goal:</strong> Evaluate security posture and identify potential threats.</li>
+  <li><strong>Tools/Concepts:</strong> NIST Framework, Risk Assessment, Threat Identification, Incident Response</li>
+  <li><strong>Outcome:</strong> Completed full audit report; scored 100% in portfolio activity.</li>
+</ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
 -->
