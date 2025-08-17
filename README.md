@@ -1,7 +1,7 @@
 # Hi, I'm Junaid!
 **Computer Engineering Student | Cybersecurity Aspirant**
 
-[LinkedIn](https://www.linkedin.com/in/junaid/) | [GitHub](https://github.com/CyberJunaidX)
+[LinkedIn](www.linkedin.com/in/junaid-ayyan-mohammed-abdul-845598283) | [GitHub](https://github.com/CyberJunaidX)
 
 ---
 
