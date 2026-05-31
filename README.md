@@ -1,45 +1,43 @@
-# Hi, I'm Junaid!
-**Computer Engineering Student | Cybersecurity Aspirant**
+# Hi, I'm Junaid 👋
 
-[LinkedIn](https://www.linkedin.com/in/junaid-ayyan-mohammed-abdul-845598283/) | [GitHub](https://github.com/CyberJunaidX)
+🎓 Computer Engineering Student at Vistula University (Cybersecurity Specialization)
 
----
+🔐 Aspiring Cybersecurity Professional
 
-## 👨‍💻 Cybersecurity Projects
+🌱 Currently Learning:
 
-### 1. Security Audit Project – Google Cybersecurity Certificate
-Conducted a security audit simulating a small company's IT infrastructure. Identified risks, assessed vulnerabilities, and suggested improvements using the NIST cybersecurity framework.
+* Python for Cybersecurity
+* Linux Administration
+* Network Security
+* SOC Operations & SIEM
+* Git & GitHub
 
-- **Goal:** Evaluate security posture and identify potential threats.
-- **Tools/Concepts:** NIST Framework, Risk Assessment, Threat Identification, Incident Response
-- **Outcome:** Completed full audit report; scored 100% in portfolio activity.
+💻 Technical Skills:
 
-### 2. Module 2 Challenge – Google Cybersecurity Certificate
-Solved quizzes and exercises on threats, risks, vulnerabilities, and incident response.
+* Programming: Java, C#, Python (Learning)
+* Operating Systems: Linux, Windows
+* Networking: TCP/IP, Subnetting, Troubleshooting
+* Security: NIST Framework, Risk Assessment, Incident Response, OWASP
+* Tools: Wireshark, SIEM, Git, GitHub
 
-- **Goal:** Test cybersecurity knowledge from Module 2.
-- **Tools/Concepts:** SIEM, Social Engineering, Phishing, Cloud Security
-- **Outcome:** Scored 85%; strengthened understanding of core concepts.
----
+🏆 Certifications:
 
-## 🎓 Certificates
+* Google Cybersecurity Professional Certificate
+* Deloitte Cybersecurity Job Simulation
+* Cisco Networking
+* Cisco Network Addressing & Troubleshooting
+* SoloLearn C# Programming
 
-- **Cybersecurity Professional Certificate** – GOOGLE
-- **Cybersecurity Job Training** - DELOITTE
-- **C# Programming** – SOLO LEARN
-- **Networking** - CISCO
-- **Network Adressing and Trouble Shooting** - CISCO
+🚀 Current Goals:
 
----
+* Build cybersecurity projects
+* Master Python & Linux
+* Earn Security+ level knowledge
+* Prepare for SOC Analyst internships
 
-## 🛠 Skills & Tools
+⚡ Fun Fact:
+I enjoy solving security challenges, learning new technologies, and turning curiosity into practical skills.
 
-- **Cybersecurity Concepts:** NIST, OWASP, Threat Modeling, Incident Response  
-- **Networking & Security Tools:** SIEM, Packet Sniffer, Firewall, Intrusion Detection  
-- **Programming & Scripting:** Java, C#, Bash/Linux commands  
-- **Other Skills:** Risk Assessment, Security Audits, Data Security, Cloud Security  
-
----
 
 ## 📫 Contact Me
 
