@@ -20,12 +20,6 @@ Solved quizzes and exercises on threats, risks, vulnerabilities, and incident re
 - **Goal:** Test cybersecurity knowledge from Module 2.
 - **Tools/Concepts:** SIEM, Social Engineering, Phishing, Cloud Security
 - **Outcome:** Scored 85%; strengthened understanding of core concepts.
-
-### 3. Future Project: Phishing Detection Lab (Optional)
-- **Goal:** Detect and respond to phishing attempts.
-- **Tools/Concepts:** Email analysis, Log review, Incident response playbook
-- **Outcome:** Hands-on practice detecting phishing attacks.
-
 ---
 
 ## 🎓 Certificates
