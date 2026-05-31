@@ -14,7 +14,7 @@
 
 💻 Technical Skills:
 
-* Programming: Java, C#, Python (Learning)
+* Programming: Java, C#, Assembly
 * Operating Systems: Linux, Windows
 * Networking: TCP/IP, Subnetting, Troubleshooting
 * Security: NIST Framework, Risk Assessment, Incident Response, OWASP
