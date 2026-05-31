@@ -24,9 +24,11 @@ Solved quizzes and exercises on threats, risks, vulnerabilities, and incident re
 
 ## 🎓 Certificates
 
-- **Google Cybersecurity Professional Certificate** – Coursera (Completed)
-- **SoloLearn C# Basics** – Programming fundamentals
-- **Google AI Cybersecurity Skills** – AI tools for cybersecurity
+- **Cybersecurity Professional Certificate** – GOOGLE
+- **Cybersecurity Job Training** - DELOITTE
+- **C# Programming** – SOLO LEARN
+- **Networking** - CISCO
+- **Network Adressing and Trouble Shooting** - CISCO
 
 ---
 
@@ -34,7 +36,7 @@ Solved quizzes and exercises on threats, risks, vulnerabilities, and incident re
 
 - **Cybersecurity Concepts:** NIST, OWASP, Threat Modeling, Incident Response  
 - **Networking & Security Tools:** SIEM, Packet Sniffer, Firewall, Intrusion Detection  
-- **Programming & Scripting:** Python, C# (Basics), Bash/Linux commands  
+- **Programming & Scripting:** Java, C#, Bash/Linux commands  
 - **Other Skills:** Risk Assessment, Security Audits, Data Security, Cloud Security  
 
 ---
