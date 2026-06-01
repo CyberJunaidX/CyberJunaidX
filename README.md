@@ -6,7 +6,7 @@ Computer Engineering Student at Vistula University (Cybersecurity Specialization
 * Operating Systems: Windows
 * Networking: Basic networking, troubleshooting
 * Cybersecurity: NIST Framework, Risk Assessment, Incident Response, Vulnerability Assessment, Security Auditing
-* Tools & Environments: Git, GitHub, Wireshark, Microsoft Visual Studio, PyCharm, .NET Framework
+* Tools & Environments: Git, GitHub, Microsoft Visual Studio, PyCharm, .NET Framework
 * Productivity Tools: Microsoft Office (Word, Excel, PowerPoint)
 * Soft Skills: Problem-solving, teamwork, communication, documentation, analytical thinking, time management
 
