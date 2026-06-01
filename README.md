@@ -1,15 +1,48 @@
-# 💫 Hi, I'm Junaid:
-I am a Computer Engineering student at Vistula University, Warsaw, with a strong passion for cybersecurity and how modern digital systems operate. I enjoy exploring technology from both a practical and problem-solving perspective, especially understanding how systems stay secure and efficient. I am continuously building my skills through hands-on projects, learning new concepts, and improving my ability to think like a problem solver in real-world scenarios. My goal is to grow into a cybersecurity professional and contribute to building secure, reliable, and impactful technology solutions.<br>
+# Hi, I'm Junaid 👋
+Computer Engineering Student at Vistula University (Cybersecurity Specialization). I enjoy exploring technology from both a practical and problem-solving perspective, especially understanding how systems stay secure and efficient. I am continuously building my skills through hands-on projects, learning new concepts, and improving my ability to think like a problem solver in real-world scenarios. My goal is to grow into a cybersecurity professional and contribute to building secure, reliable, and impactful technology solutions.<br>
 
+# 💻 Skills:
+* Programming: Java, C#, Assembly
+* Operating Systems: Windows
+* Networking: Basic networking, troubleshooting
+* Cybersecurity: NIST Framework, Risk Assessment, Incident Response, Vulnerability Assessment, Security Auditing
+* Tools & Environments: Git, GitHub, Wireshark, Microsoft Visual Studio, PyCharm, .NET Framework
+* Productivity Tools: Microsoft Office (Word, Excel, PowerPoint)
+* Soft Skills: Problem-solving, teamwork, communication, documentation, analytical thinking, time management
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 🚀 Current Goals:
+* Build cybersecurity projects
+* Master Python & Linux
+* Earn Security+ level knowledge
+* Prepare for SOC Analyst internships
+
+# 🏆 Certifications:
+* Google Cybersecurity Professional Certificate
+* Deloitte Cybersecurity Job Simulation
+* Cisco Networking
+* Cisco Network Addressing & Troubleshooting
+* SoloLearn C# Programming
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=CyberJunaidX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=CyberJunaidX&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CyberJunaidX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 📫 Contact Me
+
+- **Email:** royaljunaid2006@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/junaid-ayyan-mohammed-abdul-845598283/
+- **GitHub:** [github.com/CyberJunaidX](https://github.com/CyberJunaidX)
+
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
