@@ -2,7 +2,7 @@
 Computer Engineering Student at Vistula University (Cybersecurity Specialization). I enjoy exploring technology from both a practical and problem-solving perspective, especially understanding how systems stay secure and efficient. I am continuously building my skills through hands-on projects, learning new concepts, and improving my ability to think like a problem solver in real-world scenarios. My goal is to grow into a cybersecurity professional and contribute to building secure, reliable, and impactful technology solutions.<br>
 
 # 💻 Skills:
-* Programming: Java, C#, Assembly
+* Programming: Python, Java, C#, Assembly
 * Operating Systems: Windows
 * Networking: Basic networking, troubleshooting
 * Cybersecurity: NIST Framework, Risk Assessment, Incident Response, Vulnerability Assessment, Security Auditing
