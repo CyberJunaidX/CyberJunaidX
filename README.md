@@ -18,6 +18,7 @@ Computer Engineering Student at Vistula University (Cybersecurity Specialization
 
 # 🏆 Certifications:
 * Google Cybersecurity Professional Certificate
+* 42 Warsaw Python Piscine
 * Deloitte Cybersecurity Job Simulation
 * Cisco Networking
 * Cisco Network Addressing & Troubleshooting
